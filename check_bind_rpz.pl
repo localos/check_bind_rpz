@@ -24,7 +24,7 @@
 # for suspicious/blacklisted queries/domains
 #
 # Author: solacol
-# Version: 0.1
+# Version: 1.0
 #
 #####################################################
 #
